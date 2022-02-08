@@ -19,5 +19,5 @@ module.exports = {
   theme: 'dark',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
-  demoMode: 'true',
+  demoMode: 'false',
 };
